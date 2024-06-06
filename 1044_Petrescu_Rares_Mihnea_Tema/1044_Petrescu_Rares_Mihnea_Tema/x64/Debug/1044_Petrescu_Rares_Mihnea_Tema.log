@@ -1,0 +1,9 @@
+﻿  1044_Petrescu_Rares_Mihnea_Tema.cpp
+C:\Users\Gucci\Desktop\POO\1044_Petrescu_Rares_Mihnea_Tema\1044_Petrescu_Rares_Mihnea_Tema\1044_Petrescu_Rares_Mihnea_Tema.cpp(39,37): warning C4244: 'initializing': conversion from 'double' to 'size_t', possible loss of data
+C:\Users\Gucci\Desktop\POO\1044_Petrescu_Rares_Mihnea_Tema\1044_Petrescu_Rares_Mihnea_Tema\1044_Petrescu_Rares_Mihnea_Tema.cpp(62,37): warning C4244: 'initializing': conversion from 'double' to 'size_t', possible loss of data
+C:\Users\Gucci\Desktop\POO\1044_Petrescu_Rares_Mihnea_Tema\1044_Petrescu_Rares_Mihnea_Tema\1044_Petrescu_Rares_Mihnea_Tema.cpp(83,37): warning C4244: 'initializing': conversion from 'double' to 'size_t', possible loss of data
+C:\Users\Gucci\Desktop\POO\1044_Petrescu_Rares_Mihnea_Tema\1044_Petrescu_Rares_Mihnea_Tema\1044_Petrescu_Rares_Mihnea_Tema.cpp(104,37): warning C4244: 'initializing': conversion from 'double' to 'size_t', possible loss of data
+C:\Users\Gucci\Desktop\POO\1044_Petrescu_Rares_Mihnea_Tema\1044_Petrescu_Rares_Mihnea_Tema\1044_Petrescu_Rares_Mihnea_Tema.cpp(124,37): warning C4244: 'initializing': conversion from 'double' to 'size_t', possible loss of data
+C:\Users\Gucci\Desktop\POO\1044_Petrescu_Rares_Mihnea_Tema\1044_Petrescu_Rares_Mihnea_Tema\1044_Petrescu_Rares_Mihnea_Tema.cpp(149,37): warning C4244: 'initializing': conversion from 'double' to 'size_t', possible loss of data
+C:\Users\Gucci\Desktop\POO\1044_Petrescu_Rares_Mihnea_Tema\1044_Petrescu_Rares_Mihnea_Tema\1044_Petrescu_Rares_Mihnea_Tema.cpp(207,37): warning C4244: 'initializing': conversion from 'double' to 'size_t', possible loss of data
+  1044_Petrescu_Rares_Mihnea_Tema.vcxproj -> C:\Users\Gucci\Desktop\POO\1044_Petrescu_Rares_Mihnea_Tema\x64\Debug\1044_Petrescu_Rares_Mihnea_Tema.exe
